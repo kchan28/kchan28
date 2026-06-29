@@ -1,6 +1,8 @@
-## 안녕하세요, 한경찬입니다 👋
+
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=3A876A&height=130&text=Data%20Analyst%20·%20ML%20Engineer&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=50&desc=Designing%20decisions%20from%20data&descSize=14&descAlignY=68&descAlign=50&descFontColor=CBE8D8)
+
+## 안녕하세요, 한경찬입니다 👋
 
 데이터에서 **의사결정 근거를 설계**하는 Data Analyst · ML Engineer입니다.  
 EDA 설계부터 AI 서비스 아키텍처까지, 분석의 모든 판단을 수치로 정당화합니다.
@@ -12,6 +14,7 @@ EDA 설계부터 AI 서비스 아키텍처까지, 분석의 모든 판단을 수
 
 <br>
 
+---
 **Tech Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
