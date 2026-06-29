@@ -9,7 +9,8 @@ EDA 설계부터 AI 서비스 아키텍처까지, 분석의 모든 판단을 수
 
 <br>
 
-🔗 [Portfolio](https://kchan28.github.io) &nbsp;·&nbsp; 📄 [Resume](https://kchan28.github.io/resume.html) &nbsp;·&nbsp; 
+🔗 [Portfolio](https://kchan28.github.io) &nbsp;·&nbsp; 
+📄 [Resume](https://kchan28.github.io/resume.html) &nbsp;·&nbsp; 
 
 <br>
 
@@ -23,17 +24,16 @@ EDA 설계부터 AI 서비스 아키텍처까지, 분석의 모든 판단을 수
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## 🗂 Projects
 
-| 프로젝트 | 설명 | 주요 성과 | 스택 |
-|---|---|---|---|
-| [TrendIt](https://kchan28.github.io/#projects) | YouTube KR 트렌딩 지속성 예측 ML 플랫폼 | AUC-ROC 0.83 · PR-AUC +13.6% | XGBoost · LightGBM · FastAPI |
-| [이젠, 안쉼](https://kchan28.github.io/#projects) | 청년 지원 통합 검색 에이전트 | LangGraph RAG · Neo4j 하이브리드 파이프라인 | LangGraph · FastAPI · Neo4j |
+| 프로젝트 | 설명 |
+|---|---|
+| [TrendIt](https://kchan28.github.io) | YouTube KR 트렌딩 지속성 예측 ML 플랫폼 |
+| [이젠, 안쉼](https://kchan28.github.io) | 청년 지원 통합 검색 에이전트 (LangGraph RAG) |
 
 <!--
 **kchan28/kchan28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
