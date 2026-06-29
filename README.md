@@ -1,4 +1,9 @@
-## Hi there 👋
+## 안녕하세요 👋
+
+데이터 분석과 ML 엔지니어링을 합니다.
+
+🔗 [Portfolio](https://kchan28.github.io)
+📄 [Resume](https://kchan28.github.io/resume.html)
 
 <!--
 **kchan28/kchan28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
